@@ -27,7 +27,7 @@
       <sub><b>Cargo:</b></sub>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/80362674?v=4" width="100px;" alt="Foto do Integrante Janderson"/><br />
+      <img src="https://avatars.githubusercontent.com/u/80362674?v=4" width="100px;" alt="Foto do Integrante Janderson Mota"/><br />
       <sub><b><a href="https://github.com/JandersonMota">Janderson Mota</a></b></sub><br />
       <sub><b>Gestor</b></sub>
     </td>
@@ -42,7 +42,12 @@
       <sub><b>Cargo:</b></sub>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/129338943?v=4" width="100px;" alt="Foto da Integrante Ronaldo"/><br />
+      <img src="https://avatars.githubusercontent.com/u/108598152?v=4" width="100px;" alt="Foto da Integrante Matheus Parenti"/><br />
+      <sub><b><a href="https://github.com/MatheusBrazilCoder">Matheus Parenti</a></b></sub><br />
+      <sub><b>Front-end</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/129338943?v=4" width="100px;" alt="Foto da Integrante Ronaldo Correia"/><br />
       <sub><b><a href="https://github.com/Ronaldo-Correia">Ronaldo Correia</a></b></sub><br />
       <sub><b>Cargo:</b></sub>
     </td>
