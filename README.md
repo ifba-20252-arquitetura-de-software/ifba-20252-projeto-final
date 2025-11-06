@@ -37,6 +37,11 @@
       <sub><b>Cargo:</b></sub>
     </td>
     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/129232321?v=4" width="100px;" alt="Foto da Integrante João Heric"/><br />
+      <sub><b><a href="https://github.com/JottaIFBA">João Heric</a></b></sub><br />
+      <sub><b>Cargo:</b></sub>
+    </td>
+    <td align="center">
       <img src="https://avatars.githubusercontent.com/u/129338943?v=4" width="100px;" alt="Foto da Integrante Ronaldo"/><br />
       <sub><b><a href="https://github.com/Ronaldo-Correia">Ronaldo Correia</a></b></sub><br />
       <sub><b>Cargo:</b></sub>
